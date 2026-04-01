@@ -42,4 +42,7 @@ features:
   - title: '11. Team/Swarm'
     details: '持久化多 Agent 团队：邮箱通信、权限审批、计划审批的完整协作体系。'
     link: /guide/11-team-swarm
+  - title: '12. Ink 渲染引擎'
+    details: '自研终端 UI 引擎：React 组件模型、Yoga 布局、Cell 压缩、差量更新。'
+    link: /guide/12-ink-render-engine
 ---
